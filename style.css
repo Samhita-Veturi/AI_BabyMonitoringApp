@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 30px;
+width: 90%;
+margin: 10px;
+margin-top: 15px;
+padding: 10px;
+border-radius: 20px;
+}
+
+#status, #No_Obj
+{
+font-size: 18px;
+}
+canvas{
+    border: black 5px dashed;
+    padding: 3px;
+    box-shadow: 15px, 15px, 15px;
+    margin-top: 120px;
+}
+hr{
+    width: 500px;
+}
